@@ -1,3 +1,6 @@
+![MyApp](examples/images/myApp.gif)
+
+
 ##What ?
 
 A small Scala.js React Native app that is build on chandu0101's [scalajs-react-native](https://github.com/chandu0101/scalajs-react-native)
@@ -5,16 +8,11 @@ with some changes.
 
 1. Updated libraries
 2. Updated APIs
-3. Updated
 
 This project also requires this fork of scalajs-react which implements React Native APIS [simerplaha/scalajs-react](https://github.com/simerplaha/scalajs-react)
 
 1. Clone the above repository
 2. sbt publish-local
-
-## Running example
-
-![MyApp](examples/images/myApp.gif)
 
 ## Run
 
