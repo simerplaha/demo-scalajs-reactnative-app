@@ -1,4 +1,4 @@
-## DEMO GIF
+## DEMO
 
 ![MyApp](examples/images/myApp.gif)
 
