@@ -30,11 +30,11 @@ npm run start
 ## Runtime error
 
 I'm getting the following runtime error after upgrading the React-native version to latest. This seems to be a JS
-issue which I will try to work on soon.
+issue which I will try to work on soon. [Stackoverflow question](http://stackoverflow.com/questions/35474610/unable-to-execute-js-call-fbbatchedbridge-is-undefined)
 
 ```
 Unable to execute JS class: __fbBatchedBridge is undefined
 ```
 
-[Stackoverflow question](http://stackoverflow.com/questions/35474610/unable-to-execute-js-call-fbbatchedbridge-is-undefined)
+
 
