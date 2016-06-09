@@ -1,5 +1,6 @@
-![MyApp](examples/images/myApp.gif)
+## DEMO GIF
 
+![MyApp](examples/images/myApp.gif)
 
 ##What ?
 
