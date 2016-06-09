@@ -8,6 +8,7 @@ with some changes.
 3. Updated
 
 This project also requires this fork of scalajs-react which implements React Native APIS [simerplaha/scalajs-react](https://github.com/simerplaha/scalajs-react)
+
 1. Clone the above repository
 2. sbt publish-local
 
@@ -26,7 +27,9 @@ npm install
 npm run start
 ```
 
-Runtime error: I'm getting the following runtime error after upgrading the React-native version to latest. This seems to be a JS
+## Runtime error
+
+I'm getting the following runtime error after upgrading the React-native version to latest. This seems to be a JS
 issue which I will try to work on soon.
 
 ```
